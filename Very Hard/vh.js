@@ -38,13 +38,3 @@ if (operator === "+"){
  let result = divide (x, y)
  return '${x} ${operator} ${y} = ${result}'
 }
-
-function calculator (numOne, numTwo, operator) {
-    if (operator == "+"){
-    
-    I$ calls for what it is
-    else if (operator == "_")f
-    let result = subtract (numOne, numTwo)
-    return '${numOne} ${operator} ${numTwo} = sfresult}
-    
-    
